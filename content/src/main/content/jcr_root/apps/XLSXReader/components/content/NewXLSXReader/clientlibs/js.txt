@@ -1,0 +1,11 @@
+#base=source/js
+shared/ui-grid.js
+shared/angular.js
+shared/angular-route.js
+shared/angular-resource.js
+app.js
+controller/fupController.js
+controller/testController.js
+directive/fileread.js
+service/saveFileService.js
+service/uploadFileService.js
